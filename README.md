@@ -2,22 +2,27 @@
 
 # Squat Counter
 
+* (간략히 전체 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)
+
 * real-time vedio를 송출하고 사용자가 스쿼트 동작을 수행했을 때 숫자를 counting해주고,
 * 사용자의 자세에 집중할 수 있도록 background image를 제거해주는 프로그램
 
 ## Requirement
 
+* (프로젝트를 실행시키기 위한 최소 requirement들에 대해 기술)
+
+```
 * 10th generation Intel® CoreTM processor onwards
 * At least 32GB RAM
 * Python 3.9
-
+```
 
 ## Clone code
 
 * (Code clone 방법에 대해서 기술)
-
+  
 ```shell
-git clone https://github.com/zzz/yyy/xxxx
+git clone https://github.com/Jeong32/intel_ai_project/d
 ```
 
 ## Prerequite
